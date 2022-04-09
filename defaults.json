@@ -1,9 +1,8 @@
 {
-	"aliases": {
-	},
+	"aliases": {},
 	"remotes": {
 		"default": "node",
 		"node": "https://nodejs.org/dist/"
 	},
-	"bootstrap": "node/12.22.2"
+	"bootstrap": "node/16.14.2"
 }
